@@ -1,0 +1,21 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  
+  h1 {
+    color: blue;
+  }
+  
+  
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  strong {
+    color: blue;
+  }
+  a {
+    text-decoration: none;
+  }
